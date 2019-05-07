@@ -17,3 +17,8 @@ source virtualenv/Scripts/activate
 ```
 deactivate
 ```
+
+# running the server 
+```
+python manage.py runserver
+```
