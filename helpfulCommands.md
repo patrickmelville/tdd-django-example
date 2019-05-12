@@ -22,3 +22,8 @@ deactivate
 ```
 python manage.py runserver
 ```
+
+# see git commit log
+```
+git log --oneline
+```
