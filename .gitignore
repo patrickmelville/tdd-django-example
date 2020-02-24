@@ -5,4 +5,4 @@ virtualenv
 __pycache__
 *.pyc
 geckodriver.exe
-/static
+secret_key.txt
